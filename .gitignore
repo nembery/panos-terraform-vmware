@@ -1,5 +1,5 @@
 terraform.tfvars
 venv
 .idea
-terraform.tfstate
+terraform.tfstate*
 .terraform
